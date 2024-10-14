@@ -31,3 +31,5 @@ Seguridad y privacidad: En un entorno web moderno, los desarrolladores deben imp
 Desarrollo móvil y responsivo: Con la proliferación de dispositivos móviles, un desarrollo web integral debe asegurar que el sitio funcione correctamente en todos los tamaños de pantalla y dispositivos. Las técnicas de diseño responsivo y el uso de frameworks como Bootstrap facilitan este proceso.
  
  ##REferencias : Wikipedia 
+
+ 
