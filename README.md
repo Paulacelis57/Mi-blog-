@@ -30,6 +30,16 @@ Seguridad y privacidad: En un entorno web moderno, los desarrolladores deben imp
 
 Desarrollo móvil y responsivo: Con la proliferación de dispositivos móviles, un desarrollo web integral debe asegurar que el sitio funcione correctamente en todos los tamaños de pantalla y dispositivos. Las técnicas de diseño responsivo y el uso de frameworks como Bootstrap facilitan este proceso.
  
+ 
+ ##Automatización y herramientas actuales
+
+Automatización en el desarrollo: Herramientas como Webpack, Gulp, y Grunt permiten automatizar tareas como la minificación de archivos, la compilación de CSS/JavaScript, y la optimización de imágenes.
+
+Plataformas y CMS: Los Sistemas de Gestión de Contenidos (CMS) como WordPress, Joomla, y Drupal siguen siendo populares, pero los headless CMS han ganado tracción por su flexibilidad y capacidad de escalar.
+
+Versionamiento y control de proyectos: Git y GitHub/GitLab se han convertido en estándares en el control de versiones, permitiendo que equipos colaboren eficazmente y gestionen cambios en el código con facilidad.
+
+Frameworks y bibliotecas modernas: El uso de frameworks modernos para el desarrollo tanto del front-end (React, Angular, Vue.js) como del back-end (Node.js, Django, Flask) se ha popularizado, ya que permiten construir sitios web más escalables, rápidos y eficientes. 
  ##REferencias : Wikipedia 
 
  
