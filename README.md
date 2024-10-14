@@ -3,7 +3,7 @@
 ##Blog  
 
 En esta primera etapa se deberá empezar a recopilar la mayor cantidad de información posible para conocer todos los factores y funcionalidades que se desean en el desarrollo web y los que no dentro del sitio web para realizar un balance inicial de por dónde se debe comenzar.
-Ya con una investigación definida el diseñador web llevará a cabo la creación de un mapa de sitio, donde se verá una representación completa o resumida de la web y se conocerá el recorrido que los usuarios podrían tener dentro de esta. En esta etapa se realizará un Wireframe para representar de manera sencilla la estructura que tendrá nuestra página web. Al igual que un prototipo ya con elementos gráficos definidos como los son la paleta de colores, la tipografía, espacios etc.. con el fin de visualizar la interfaz final del sitio y saber si es acto o si hay elementos que se pueden mejorar, y pasar a la etapa de desarrollo en un dominio de prueba. 
+Ya con una investigación definida el diseñador web llevará a cabo la creación de un mapa de sitio, donde se verá una representación completa o resumida de la web y se conocerá el recorrido que los usuarios podrían tener dentro de esta. En esta etapa se realizará un Wireframe para representar de manera sencilla la estructura que tendrá nuestra página web. 
 ##Instalacion 
 Al momento de contar con la aprobación del diseño se podrá iniciar con la creación el sitio web donde el desarrollador web tomará los elementos gráficos realizados con el fin de producir un sitio funcional. Para esto, el primer paso que se deberá hacer es la instalación de un dominio de prueba donde podrá estructurar el diseño de la página web. En el que se implementarán todas las especificaciones
 
@@ -22,7 +22,6 @@ Desarrollo Back-End: El back-end es el cerebro detrás del sitio web, que maneja
 
  Gestión de bases de datos: Los sistemas de bases de datos como MySQL, MongoDB o PostgreSQL son esenciales para gestionar y almacenar la información que fluye a través del sitio web. La estructuración adecuada de datos y su acceso eficiente son esenciales para un sitio web integral.
 
- Optimización SEO y SEM: Un componente clave del desarrollo web integral es el Posicionamiento en buscadores (SEO), que incluye tanto la optimización del contenido como la velocidad y el rendimiento del sitio. También se puede integrar con estrategias de marketing de motores de búsqueda (SEM)2​ para generar tráfico y aumentar la visibilidad online.
 
 Accesibilidad web: Con el crecimiento de las normativas sobre accesibilidad web, es importante que un desarrollo web integral garantice que todos los usuarios, independientemente de sus habilidades, puedan acceder y navegar por el sitio. Esto implica seguir pautas como las WCAG (Web Content Accessibility Guidelines).
 
