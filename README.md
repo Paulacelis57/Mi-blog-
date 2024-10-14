@@ -4,6 +4,7 @@
 
 En esta primera etapa se deberá empezar a recopilar la mayor cantidad de información posible para conocer todos los factores y funcionalidades que se desean en el desarrollo web y los que no dentro del sitio web para realizar un balance inicial de por dónde se debe comenzar.
 Ya con una investigación definida el diseñador web llevará a cabo la creación de un mapa de sitio, donde se verá una representación completa o resumida de la web y se conocerá el recorrido que los usuarios podrían tener dentro de esta. En esta etapa se realizará un Wireframe para representar de manera sencilla la estructura que tendrá nuestra página web. 
+
 ##Instalacion 
 Al momento de contar con la aprobación del diseño se podrá iniciar con la creación el sitio web donde el desarrollador web tomará los elementos gráficos realizados con el fin de producir un sitio funcional. Para esto, el primer paso que se deberá hacer es la instalación de un dominio de prueba donde podrá estructurar el diseño de la página web. En el que se implementarán todas las especificaciones
 
